@@ -13,7 +13,7 @@ The Todo App allows users to create a list of todos and mark them as completed. 
 
 ## Screenshots
 
-![Todo List Screen](screenshots/todo_list_screen.png)
+<img src="screenshots/todo_list_screen.png" alt="Image" width="300">
 
 ## Dependencies
 
